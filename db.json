@@ -1,0 +1,14 @@
+{
+  "wifi": {
+    "ssid": 1,
+    "password": "Post 1"
+  },
+  "user": {
+     "minHumidity": 20,
+     "maxHumidity": 65,
+     "minBrightness": 15,
+     "maxBrightness": 80,
+     "minTemperature": 10,
+     "maxTemperature": 25
+  }
+}
