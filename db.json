@@ -1,7 +1,7 @@
 {
   "wifi": {
-    "ssid": 1,
-    "password": "Post 1"
+    "ssid": "Redmi",
+    "password": "12345678"
   },
   "user": {
      "minHumidity": 20,
