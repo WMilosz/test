@@ -1,8 +1,4 @@
 {
-  "wifi": {
-    "ssid": "Redmi",
-    "password": "12345678"
-  },
   "user": {
      "minHumidity": 20,
      "maxHumidity": 65,
